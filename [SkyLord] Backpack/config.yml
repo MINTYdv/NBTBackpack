@@ -1,0 +1,9 @@
+# Configuration du plugin de SLBackpack
+# Besoin d'aide ? » MINTY#3367
+
+item:
+  material: LEATHER
+  name: "&6Sac à dos"
+  lore:
+    - "&7Dans ce sac stockez vos"
+    - "&7objets les plus précieux !"

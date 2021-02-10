@@ -1,0 +1,6 @@
+name: NBTBackpack
+author: MINTY
+version: 1.0.0
+main: com.minty.skylord.backpack.core.SLBackpack
+commands:
+  backpack:
